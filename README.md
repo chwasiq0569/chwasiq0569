@@ -1,6 +1,6 @@
-### Hi there, I'm Wasiq Abdullah Front-End Designer and Developer 👋
+### Hi there, I'm Wasiq Abdullah Front-End Designer & Developer (React-JS Dev) 👋
 
-- 🌱 I’m currently learning Node-JS 🤣
+- 🌱 I’m currently learning Node-JS 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and develop awesome Website Interfaces
