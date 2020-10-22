@@ -10,9 +10,8 @@
 
 [<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
 [<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars1.githubusercontent.com/u/4008143?s=200&v=4" />][Dribble]
-[<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
-
-
+[<img align="left" alt="Wasiq Abdullah | LinkedIn" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://wasiq-abdullah-portfolio.web.app/)
 <br />
 
 ### Languages and Tools:
@@ -39,4 +38,4 @@
 [Behance]: https://www.behance.net/wasiqabdullah
 [Dribble]: https://dribbble.com/chwasiq0569
 [LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah-b515031a6/
-
+[PortfolioWebsite]: https://wasiq-abdullah-portfolio.web.app/
