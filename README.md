@@ -8,8 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
-[<img align="left" alt="codeSTACKr | Dribble" width="22px" src="https://avatars1.githubusercontent.com/u/4008143?s=200&v=4" />][Dribble]
+[<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
+[<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars1.githubusercontent.com/u/4008143?s=200&v=4" />][Dribble]
+[<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
 
 
 <br />
@@ -37,3 +38,5 @@
 
 [Behance]: https://www.behance.net/wasiqabdullah
 [Dribble]: https://dribbble.com/chwasiq0569
+[LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah-b515031a6/
+
