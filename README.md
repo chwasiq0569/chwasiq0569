@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node-JS 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to design and develop awesome Website Interfaces
+- ⚡ Passion: I love to design and develop awesome Website Interfaces
 
 
 ### Connect with me:
