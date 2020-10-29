@@ -11,7 +11,7 @@
 [<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
 [<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars1.githubusercontent.com/u/4008143?s=200&v=4" />][Dribble]
 [<img align="left" alt="Wasiq Abdullah | LinkedIn" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
-<a href="https://wasiq-abdullah-portfolio.web.app/" target="_blank">My Portfolio Website</a>
+<a href="https://wasiqabdullah-portfolio-f219a.web.app/" target="_blank">My Portfolio Website</a>
 <br />
 
 ### Languages and Tools:
