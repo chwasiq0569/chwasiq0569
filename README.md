@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Backend Development (NodeJS & ExpressJS)
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source Projects
 - ⚡ I love to design and develop awesome Web Apps
 
 
