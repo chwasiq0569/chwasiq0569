@@ -1,6 +1,6 @@
 ### Hi there, I'm Wasiq Abdullah Front-End Designer & Developer (React-JS Dev) 👋
 
-- 🌱 I use Vanilla JS, ReactJS, Redux, Material UI and some other Libraries as a Frond-end-Developer and Jest/Enzyme for Testing.
+- 🌱 I use Vanilla JS, TypeScript, ReactJS, NextJS, Redux, Material UI and some other Libraries as a Frond-end-Developer and Jest/Enzyme for Testing.
 - ⚡ I’m currently learning Backend Development (NodeJS, ExpressJS, MongoDB) and Firebase.
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source Projects
