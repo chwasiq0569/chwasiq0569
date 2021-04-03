@@ -1,6 +1,6 @@
 ### Hi there👋 , I'm Wasiq Abdullah UX Designer & Full-Stack Web Developer (MERN STACK DEVELOPER) 👋
 
-- 🌱 I use Vanilla JavaScript, TypeScript, NodeJS, ReactJS, NextJS & Redux.
+- 🌱 I use Vanilla JavaScript, TypeScript, ReactJS, NodeJS, NextJS & Redux.
 - 👯 Looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute more to Open Source Projects
 - ⚡ I love to Design and Develop Awesome Web Applications
