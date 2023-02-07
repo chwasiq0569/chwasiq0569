@@ -8,6 +8,8 @@
 [<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
 [<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars1.githubusercontent.com/u/4008143?s=200&v=4" />][Dribble]
 [<img align="left" alt="Wasiq Abdullah | LinkedIn" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
+[<img align="left" alt="Wasiq Abdullah | Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-512.png" />][Medium]
+
 <a href="https://wasiqabdullah-portfolio-f219a.web.app/" target="_blank">Portfolio</a>
 <br />
 
@@ -36,4 +38,5 @@
 [Behance]: https://www.behance.net/wasiqabdullah
 [Dribble]: https://dribbble.com/chwasiq0569
 [LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah-b515031a6/
+[Medium]: https://medium.com/@wasiqabdullah222
 
