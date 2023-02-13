@@ -1,6 +1,6 @@
-### Hi there👋 , I'm Wasiq Abdullah Full-Stack Web Developer (MERN STACK DEVELOPER) 
+### Hi there👋 , I'm Wasiq Abdullah Full-Stack Web Developer (MERN | MEVN STACK DEVELOPER) 
 - ⚡ Design and Develop Awesome Web & Mobile Applications
-- 🌱 Code in Vanilla JavaScript, TypeScript, ReactJS, React Native, Express, NextJS, Redux & Python.
+- 🌱 Code in Vanilla JavaScript, TypeScript, ReactJS, React Native, Express, NextJS, VueJS, Redux & Python.
 - 🌱 Learning Machine Learning & Deep Learning.
 
 ### Connect with me:
