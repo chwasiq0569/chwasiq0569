@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=chwasiq0569&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chwasiq0569&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chwasiq0569&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Wasiq Abdullah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chwasiq0569&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chwasiq0569&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -33,10 +33,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br />
 <br />
-
-[![Wasiq Abdullah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chwasiq0569&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 [Behance]: https://www.behance.net/wasiqabdullah
 [Dribble]: https://dribbble.com/chwasiq0569
