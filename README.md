@@ -7,7 +7,7 @@
 
 
 [<img align="left" alt="Wasiq Abdullah | LinkedIn" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
-[<img align="left" alt="Wasiq Abdullah | Kaggle" width="22px" src="https://www.kaggle.com/static/images/site-logo.svg" />][Kaggel]
+[<img align="left" alt="Wasiq Abdullah | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][Kaggel]
 [<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
 [<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="https://avatars1.githubusercontent.com/u/4008143?s=200&v=4" />][Dribble]
 [<img align="left" alt="Wasiq Abdullah | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][Medium]
