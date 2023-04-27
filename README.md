@@ -5,7 +5,6 @@
 
 ### Connect with me:
 
-
 [<img align="left" alt="Wasiq Abdullah | LinkedIn" width="22px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
 [<img align="left" alt="Wasiq Abdullah | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][Kaggel]
 [<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="https://avatars0.githubusercontent.com/u/1197743?s=200&v=4" />][Behance]
@@ -32,6 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=chwasiq0569&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
 <br />
 <br />
 
