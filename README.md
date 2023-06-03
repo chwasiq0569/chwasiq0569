@@ -1,7 +1,7 @@
-### Hi there👋 , I'm Wasiq Abdullah Full-Stack Developer (MERN | MEVN STACK DEVELOPER) 
-- ⚡ Design and Develop Awesome Web & Mobile Applications
-- 🌱 Code in Vanilla JavaScript, TypeScript, ReactJS, React Native, Express, NextJS, VueJS, Redux & Python.
-- 🌱 Learning Data Science.
+### Hi there👋 , I'm Wasiq Abdullah Data Scientist with 4+ years of experience in Full Stack Development.
+- ⚡ Solve complex problems and uncover valuable insights from data
+- 🌱 Code in Python, JavaScript, TypeScript, MERN Stack.
+- 🌱 Design and Develop Awesome Web & Mobile Apps
 
 ### Connect with me:
 
@@ -35,10 +35,10 @@
 <br />
 <br />
 
-[Behance]: https://www.behance.net/wasiqabdullah
 [Kaggel]: https://www.kaggle.com/chwasiq0569
-[Dribble]: https://dribbble.com/chwasiq0569
 [LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah-b515031a6/
+[Behance]: https://www.behance.net/wasiqabdullah
+[Dribble]: https://dribbble.com/chwasiq0569
 [Medium]: https://medium.com/@wasiqabdullah222
 [StackOverflow]: https://stackoverflow.com/users/16070355/wasiq-abdullah
 
