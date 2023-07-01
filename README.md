@@ -1,4 +1,4 @@
-### Hi there👋, I'm Wasiq Abdullah, Machine Learning Engineer with 4+ years of experience in Full Stack Development.
+### Hi there👋, I'm Wasiq Abdullah, Data Scientist with 4+ years of experience in Full Stack Development.
 - ⚡ Solve Complex Problems and Uncover Valuable Insights from Data
 - 🌱 Code in Python, JavaScript, TypeScript, MERN Stack.
 - 🌱 Design and Develop Awesome Web & Mobile Apps
