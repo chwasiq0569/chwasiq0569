@@ -35,7 +35,7 @@
 <br />
 
 [Kaggel]: https://www.kaggle.com/chwasiq0569
-[LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah-16b0432a0/
+[LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah/
 [Behance]: https://www.behance.net/wasiqabdullah
 [Dribble]: https://dribbble.com/chwasiq0569
 [Medium]: https://medium.com/@wasiqabdullah222
